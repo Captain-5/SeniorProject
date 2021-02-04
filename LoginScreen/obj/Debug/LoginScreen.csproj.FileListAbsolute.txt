@@ -1,0 +1,11 @@
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csprojAssemblyReference.cache
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\Kariu\OneDrive\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
